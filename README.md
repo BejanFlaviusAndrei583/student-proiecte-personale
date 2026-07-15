@@ -79,6 +79,4 @@ This project was created for learning purposes as part of my networking training
 
 Bejan Flavius Andrei
 
-Computer Science Student
 
-Aspiring IT / Network Support Professional
